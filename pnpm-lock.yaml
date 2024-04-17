@@ -142,8 +142,8 @@ importers:
         version: 3.22.4
     devDependencies:
       '@types/mdx':
-        specifier: ^2.0.11
-        version: 2.0.11
+        specifier: ^2.0.13
+        version: 2.0.13
       '@types/react':
         specifier: ^18.2.55
         version: 18.2.55
@@ -886,7 +886,7 @@ packages:
       '@types/estree': 1.0.5
       '@types/estree-jsx': 1.0.3
       '@types/hast': 3.0.3
-      '@types/mdx': 2.0.11
+      '@types/mdx': 2.0.13
       collapse-white-space: 2.1.0
       devlop: 1.1.0
       estree-util-build-jsx: 3.0.1
@@ -2786,8 +2786,8 @@ packages:
     dependencies:
       '@types/unist': 3.0.2
 
-  /@types/mdx@2.0.11:
-    resolution: {integrity: sha512-HM5bwOaIQJIQbAYfax35HCKxx7a3KrK3nBtIqJgSOitivTD1y3oW9P3rxY9RkXYPUk7y/AjAohfHKmFpGE79zw==}
+  /@types/mdx@2.0.13:
+    resolution: {integrity: sha512-+OWZQfAYyio6YkJb3HLxDrvnx6SWWDbC0zVPfBRzUk0/nqoDyf6dNxQi3eArPe8rJ473nobTMQ/8Zk+LxJ+Yuw==}
 
   /@types/minimist@1.2.5:
     resolution: {integrity: sha512-hov8bUuiLiyFPGyFPE1lwWhmzYbirOXQNNo40+y3zow8aFVTeyn3VWL0VFFfdNddA8S4Vf0Tc062rzyNr7Paag==}
